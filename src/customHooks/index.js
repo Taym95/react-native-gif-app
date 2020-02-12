@@ -1,0 +1,1 @@
+export {useFetchRandomGif} from './useFetchRandomGif';

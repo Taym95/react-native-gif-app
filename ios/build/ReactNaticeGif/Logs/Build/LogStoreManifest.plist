@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8FC24A28-A7AE-49E4-8DE5-62C765E15F4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FC24A28-A7AE-49E4-8DE5-62C765E15F4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactNaticeGif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactNaticeGif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ReactNaticeGif with scheme ReactNaticeGif and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596668735.74382305</real>
+			<key>timeStoppedRecording</key>
+			<real>596668736.84402204</real>
+			<key>title</key>
+			<string>Building workspace ReactNaticeGif with scheme ReactNaticeGif and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8FC24A28-A7AE-49E4-8DE5-62C765E15F4C</string>
+		</dict>
+		<key>DBB25E56-6780-4431-A084-306001257378</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBB25E56-6780-4431-A084-306001257378.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactNaticeGif project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactNaticeGif</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ReactNaticeGif with scheme ReactNaticeGif and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603218681.23082101</real>
+			<key>timeStoppedRecording</key>
+			<real>603218682.20910501</real>
+			<key>title</key>
+			<string>Building workspace ReactNaticeGif with scheme ReactNaticeGif and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DBB25E56-6780-4431-A084-306001257378</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
